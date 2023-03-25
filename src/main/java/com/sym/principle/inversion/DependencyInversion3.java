@@ -1,4 +1,4 @@
-package com.sym.inversion;
+package com.sym.principle.inversion;
 
 public class DependencyInversion3 {
     public static void main(String[] args) {

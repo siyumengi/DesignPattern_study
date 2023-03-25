@@ -16,4 +16,13 @@ public class Segregation1Test {
         c.depend4(new D());
         c.depend5(new D());
     }
+
+    @Test
+    public void test1(){
+        String str = "aaa";
+        System.out.println(str);
+        for (int i = 0 ; i < str.length() ; i ++){
+            System.out.println(str.toCharArray()[i]);
+        }
+    }
 }
