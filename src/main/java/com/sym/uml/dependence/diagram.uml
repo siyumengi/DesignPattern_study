@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-52.5" y="122.0">com.sym.uml.dependence.Mother</node>
+    <node x="-40.0" y="-14.0">com.sym.uml.dependence.Son</node>
+    <node x="-50.0" y="42.0">com.sym.uml.dependence.Father</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="false" x="13.5" y="90.0" />
+  <SelectedNodes>
+    <node>com.sym.uml.dependence.Son</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
