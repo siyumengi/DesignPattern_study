@@ -1,8 +1,8 @@
-package com.sym.factory.simplefactory.pizzastore.order;
+package com.sym.factory.simplefactory.order;
 
-import com.sym.factory.simplefactory.pizzastore.pizza.CheesePizza;
-import com.sym.factory.simplefactory.pizzastore.pizza.GreekPizza;
-import com.sym.factory.simplefactory.pizzastore.pizza.Pizza;
+import com.sym.factory.simplefactory.pizza.Pizza;
+import com.sym.factory.simplefactory.pizza.CheesePizza;
+import com.sym.factory.simplefactory.pizza.GreekPizza;
 
 public class SimpleFactory {
     public Pizza createPizza(String type) {

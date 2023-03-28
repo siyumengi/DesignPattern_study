@@ -1,14 +1,10 @@
-package com.sym.factory.simplefactory.pizzastore.order;
+package com.sym.factory.simplefactory.order;
 
-import com.sun.org.apache.xpath.internal.operations.Or;
-import com.sym.factory.simplefactory.pizzastore.pizza.CheesePizza;
-import com.sym.factory.simplefactory.pizzastore.pizza.GreekPizza;
-import com.sym.factory.simplefactory.pizzastore.pizza.Pizza;
+import com.sym.factory.simplefactory.pizza.Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
 public class OrderPizza {
 //    构造器

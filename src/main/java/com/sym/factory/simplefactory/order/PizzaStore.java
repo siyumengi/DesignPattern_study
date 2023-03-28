@@ -1,4 +1,4 @@
-package com.sym.factory.simplefactory.pizzastore.order;
+package com.sym.factory.simplefactory.order;
 
 public class PizzaStore {
     public static void main(String[] args) {
